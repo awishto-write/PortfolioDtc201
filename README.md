@@ -1,4 +1,4 @@
-**bold Welcome! This is a personal website to showcase some of my projects for my Tools and Methods for Digital Technology class.**
+**<h1>This is a personal website to showcase some of my projects for my Tools and Methods for Digital Technology class</h1>**
 
 It includes a short biography and the 5 following projects: 
 - Stereoscopic Anaglyph Photos done with Photoshop
